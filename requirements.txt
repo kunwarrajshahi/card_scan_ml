@@ -5,6 +5,5 @@ numpy
 pandas
 pytesseract
 spacy-transformers
-glob
 spacy
 
