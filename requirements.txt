@@ -6,5 +6,5 @@ pandas
 pytesseract
 spacy-transformers
 spacy
-transformer
+transformers
 
